@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\iroyo\onedrive\documents\visual studio 2015\projects\bullcowgame\bullcowgame\main.cpp(13): warning C4091: 'typedef ': ignored on left of 'Perso' when no variable is declared
+  BullCowGame.vcxproj -> C:\Users\Iroyo\onedrive\documents\visual studio 2015\Projects\BullCowGame\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> C:\Users\Iroyo\onedrive\documents\visual studio 2015\Projects\BullCowGame\Debug\BullCowGame.pdb (Partial PDB)
